@@ -9,7 +9,7 @@ In this internship we have explored  a state of the art method for recommendatio
  - Pandas
  - Numpy and Matplotlib
 # References : 
--[1]  RecVAE: a New Variational Autoencoder for Top-N Recommendations with Im-plicit Feedback 24 Dec 2019 , Ilya Shenbin , Anton Alekseev , Elena Tutubalina ,Valentin Malykh , Sergey I. Nikolenko
--[2]  Variational   Autoencoders   for   Collaborative   Filtering   Dawen   Liang   RahulG.  KrishnanNetflix  Los  Gatos,  CA  dliang@netflix.com  MIT  Cambridge,  MArahulgk@mit.edu  Matthew  D.  Hoffman  Tony  Jebara  Google  AI  San  Francisco,CA mhoffman@google.com Netflix Los Gatos, CA tjebara@netflix.com
--[3]  Distributions of Angles in Random Packing on Sphere. Tony Cai, Jianqing Fanand Tiefeng Jiang.
+- [1]  RecVAE: a New Variational Autoencoder for Top-N Recommendations with Im-plicit Feedback 24 Dec 2019 , Ilya Shenbin , Anton Alekseev , Elena Tutubalina ,Valentin Malykh , Sergey I. Nikolenko.
+- [2]  Variational   Autoencoders   for   Collaborative   Filtering   Dawen   Liang   RahulG.  KrishnanNetflix  Los  Gatos,  CA  dliang@netflix.com  MIT  Cambridge,  MArahulgk@mit.edu  Matthew  D.  Hoffman  Tony  Jebara  Google  AI  San  Francisco,CA mhoffman@google.com Netflix Los Gatos, CA tjebara@netflix.com
+- [3]  Distributions of Angles in Random Packing on Sphere. Tony Cai, Jianqing Fanand Tiefeng Jiang.
 
